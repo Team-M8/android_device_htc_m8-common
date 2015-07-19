@@ -53,8 +53,8 @@ PRODUCT_PACKAGES += \
 
 # Keyhandler
 PRODUCT_PACKAGES += \
-    CMActions 
-
+    CMActions \
+    com.cyanogenmod.keyhandler
 # Variant linking script
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/releasetools/variant_script.sh:install/bin/variant_script.sh
