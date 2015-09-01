@@ -51,6 +51,10 @@ PRODUCT_PACKAGES += \
     libnfc_jni \
     Nfc
 
+# Keyhandler
+PRODUCT_PACKAGES += \
+    CMActions 
+
 # Variant linking script
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/releasetools/variant_script.sh:install/bin/variant_script.sh
