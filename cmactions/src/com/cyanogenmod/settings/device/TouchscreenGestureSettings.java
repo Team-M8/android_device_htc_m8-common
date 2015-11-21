@@ -21,6 +21,7 @@ import android.app.ActionBar;
 import org.cyanogenmod.internal.util.ScreenType;
 
 import android.os.Bundle;
+import android.provider.Settings;
 import android.preference.PreferenceActivity;
 import android.preference.PreferenceCategory;
 import android.view.Menu;
