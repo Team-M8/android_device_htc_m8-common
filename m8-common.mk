@@ -34,6 +34,11 @@ PRODUCT_COPY_FILES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8974 \
+    exfat \
+    lib7z \
+    libfuse \
+    libncurses \
+    libntfs-3g \
     Snap
 
 # Init
