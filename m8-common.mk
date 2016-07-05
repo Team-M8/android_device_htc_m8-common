@@ -33,8 +33,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8974 \
-    Snap
+    camera.msm8974
 
 # Init
 PRODUCT_PACKAGES += \
